@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Fond de page stylé: plusieurs dégradés radiaux subtils + dégradé linéaire */
+body {
+  min-height: 100vh;
+  background-image:
+    radial-gradient(1200px 1200px at 0% 0%, #dbeafe 0%, transparent 60%),
+    radial-gradient(1000px 1000px at 100% 0%, #fce7f3 0%, transparent 55%),
+    radial-gradient(900px 900px at 100% 100%, #dcfce7 0%, transparent 50%),
+    radial-gradient(800px 800px at 0% 100%, #ede9fe 0%, transparent 45%),
+    linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+  background-attachment: fixed;
+}
+

@@ -1,0 +1,1159 @@
+[
+    {
+      "title": "Paris concert",
+      "artist": "Supertramp",
+      "year": "1992",
+      "image": "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/1/2/0/0606949335021/tsp20110629150343/Paris.jpg",
+      "tags": ["Rock", "Concert"],
+      "love": false
+    },
+
+    {
+      "title": "London calling",
+      "artist": "The Clash",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "No Man's Land",
+      "artist": "Jacques Higelin",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/41Rz+zrCbpL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Ne me quittes pas",
+      "artist": "Jacques Brel",
+      "year": "1972",
+      "image": "https://m.media-amazon.com/images/I/51AtOyN6mFL._UF1000,1000_QL80_.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "La valse à mille temps",
+      "artist": "Jacques Brel",
+      "year": "1976",
+      "image": "https://www.lafoireaulivre.fr/1874-large_default/jacques-brel-la-valse-a-mille-temps-vinyle.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Side 3",
+      "artist": "Ganafoul",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/71-XMJHOTWL._SX522_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Live: Take No Prisoners ",
+      "artist": "Lou Reed",
+      "year": "1978",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Noprisoners.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Live Rust",
+      "artist": "Neil Young & Crazy Horse",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Neil_Young_%26_Crazy_Horse-Live_Rust_%28album_cover%29.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Tokyo Tapes",
+      "artist": "Scorpions",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/71XdoLpexIL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Hello, I must be going !",
+      "artist": "Phil Collins",
+      "year": "1982",
+      "image": "https://m.media-amazon.com/images/I/71hc1lMtGAL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Turn of a Friendly Card",
+      "artist": "The Alan Parsons Project",
+      "year": "1999",
+      "image": "https://m.media-amazon.com/images/I/51oEcpwlocL._SX300_SY300_QL70_ML2_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Seconds out",
+      "artist": "Genesis",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/61IGmune13L._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Live!",
+      "artist": "Bob Marley and the Wailers",
+      "year": "1975",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/5d/10/6f/7278685/1540-1/tsp20150824120238/Live.jpg",
+      "tags": ["Reggae", "Concert"],
+      "love": true
+    },
+
+    {
+      "title": "The Long Run",
+      "artist": "Eagles",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Eagles_The_Long_Run.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "No Nukes",
+      "artist": "Doobie brothers & cie",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/81yDDZ+swpL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock","Funk","Soul"],
+      "love": false
+    },
+
+    {
+      "title": "Le cimetière des arlequins",
+      "artist": "Ange",
+      "year": "1973",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/49/d1/06/446793/1507-1/tsp20231005080501/Le-cimetiere-des-arlequins.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Eye in the sky",
+      "artist": "The Alan Parsons Project",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/61SzMHIYPfL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Black and blue",
+      "artist": "The Rollings Stones",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/71NiiPd1pZL.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "the rise and fall of ziggy stardust and the spiders from mars",
+      "artist": "David Bowie",
+      "year": "1972",
+      "image": "https://m.media-amazon.com/images/I/81eVnOh4UJL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "The best of Bowie",
+      "artist": "David Bowie",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/I/61Nr0zDSf4L._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Hot Tuna",
+      "artist": "Hot Tuna",
+      "year": "1970",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/HotTunaCD.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Ras Mandal Reggae",
+      "artist": "Dasanudasa",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/41EGelxdTKL._UF894,1000_QL80_.jpg",
+      "tags": ["Reggae"],
+      "love": false
+    },
+
+    {
+      "title": "If you want blood",
+      "artist": "AC/DC",
+      "year": "1978",
+      "image": "https://shoptrounoir.com/wp-content/uploads/2024/03/disquaire-nimes-vinyles-disques-cd-AC-DC-If-you-want-blood.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Boxed",
+      "artist": "Mike Oldfield",
+      "year": "1976",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Mike_Oldfield_-_Boxed.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "En public au théâtre de la ville",
+      "artist": "Michel Jonasz",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/51-07wbK5uL._UXNaN_FMjpg_QL85_.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Sous le beau ciel des belles pyrénées",
+      "artist": "Les chanteurs montagnards de Lourdes",
+      "year": "1972",
+      "image": "https://fr.shopping.rakuten.com/photo/830680320.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Jamais content",
+      "artist": "Alain Souchon",
+      "year": "1977",
+      "image": "https://static.wixstatic.com/media/084a25_671e841cff96462b91e826b825a60f7c~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Poèmes Rock",
+      "artist": "Charlélie Couture",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/61OsVdZLh0L._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Le piano sous la amer",
+      "artist": "Saint-Prieux",
+      "year": "1994",
+      "image": "https://m.media-amazon.com/images/I/51lzi+uJCJL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Simon and Garfunkel's greatest hits",
+      "artist": "Simon and Garfunkel",
+      "year": "1972",
+      "image": "https://muzikercdn.com/uploads/products/3627/362770/main_946dadb7.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Love over gold",
+      "artist": "Dire Straits",
+      "year": "1982",
+      "image": "https://m.media-amazon.com/images/I/61vKILNzKmL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Private Dancer",
+      "artist": "Tina Turner",
+      "year": "1984",
+      "image": "https://m.media-amazon.com/images/I/81ZZyueMlbL.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "So",
+      "artist": "Peter Gabriel",
+      "year": "1986",
+      "image": "https://m.media-amazon.com/images/I/71zy26EEpzL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Gonzo!",
+      "artist": "Ted Nugent",
+      "year": "1976",
+      "image": "https://i.ytimg.com/vi/Vsq7HfXXGS8/mqdefault.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Intensities in 10 Cities",
+      "artist": "Ted Nugent",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/61hsfBvUHwL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Pieces of Eight",
+      "artist": "Styx",
+      "year": "1978",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/dd/87/6c/7112669/1540-1/tsp20151023152951/Pieces-of-eight.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Car",
+      "artist": "Peter Gabriel",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/91itl8WyWNL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Concert The Cure Live",
+      "artist": "The Cure",
+      "year": "1984",
+      "image": "https://m.media-amazon.com/images/I/71IdaVK3nML.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Made in Japan",
+      "artist": "Deep Purple",
+      "year": "1972",
+      "image": "https://m.media-amazon.com/images/I/71wpJplidCL.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "We are the world",
+      "artist": "USA for Africa",
+      "year": "1984",
+      "image": "https://m.media-amazon.com/images/I/71uLxG5lXhL._SX522_.jpg",
+      "tags": ["Rock","Pop"],
+      "love": false
+    },
+
+    {
+      "title": "Émile Jacotey",
+      "artist": "Ange",
+      "year": "1975",
+      "image": "https://m.media-amazon.com/images/I/81F8bn5lHXL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Réimpression",
+      "artist": "Jacques Brel",
+      "year": "1977",
+      "image": "https://www.label-emmaus.co/media/ext/768x768_cropcenter/d1kvfoyrif6wzg.cloudfront.net/assets/images/56/main/29d10d5d71d8ce1101d14c29cd03e17f_416c3dd.jpeg.webp",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Guet-apens",
+      "artist": "Ange",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/71EQj3BiApL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Barclay",
+      "artist": "Jacques Brel",
+      "year": "1977",
+      "image": "https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/8/7/7/0602498081778/tsp20120919134342/Les-Marquises.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Dire Straits",
+      "artist": "Dire Straits",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/31BJ1L0lOnL._SY200_QL15_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Incantations",
+      "artist": "Mike Oldfield",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/41A5WSSZDJL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "The River",
+      "artist": "Bruce Springsteen",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/I/71O41EoF2vL.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Strangers in the night",
+      "artist": "UFO",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/910UTC+lkBL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Nina Hagen Band",
+      "artist": "Nina Hagen",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/71ngf31+swL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Crime of the century",
+      "artist": "Supertramp",
+      "year": "1974",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Supertramp_-_Crime_of_the_Century.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Outlandos d'amour",
+      "artist": "The Police",
+      "year": "1978",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Fz6XKUPmdkyVAIUjzVLb8C_G0Bw6LOwbrQ&s",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Alchemy",
+      "artist": "Dire Straits",
+      "year": "1984",
+      "image": "https://m.media-amazon.com/images/I/61wzt4PJBdL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Bursting out",
+      "artist": "Jethro Tull",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/51sFeb7ganL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Live! at the Star-Club in Hamburg, Germany",
+      "artist": "The Beatles",
+      "year": "1962",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Live_at_The_Star-Club_%281995%29.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "ChangesTwoBowie",
+      "artist": "David Bowie",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/81tiuAL7FgL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Shaking the tree",
+      "artist": "Peter Gabriel",
+      "year": "1990",
+      "image": "https://m.media-amazon.com/images/I/61dRZc2iucL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Ghost in the machine",
+      "artist": "The Police",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/51o6aiCTNFL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Breakfast in America",
+      "artist": "Supertramp",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/71Gz3u2htNL.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Mirage",
+      "artist": "Camel",
+      "year": "1974",
+      "image": "https://m.media-amazon.com/images/I/91pU1pZ1p-L.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Even in the quietest moments...",
+      "artist": "Supertramp",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/814smrVavAL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "SOS",
+      "artist": "SZA",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/I/91BazzuLE+L.jpg",
+      "tags": ["Pop"],
+      "love": false
+    },
+
+    {
+      "title": "Illmatic",
+      "artist": "NAS",
+      "year": "1994",
+      "image": "https://m.media-amazon.com/images/I/81Fw-VI17eL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rap"],
+      "love": true
+    },
+
+    {
+      "title": "The divine feminine",
+      "artist": "Mac Miller",
+      "year": "2016",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/d6/c2/7f/8372950/1507-1/tsp20231004152412/The-Divine-Feminine.jpg",
+      "tags": ["Rap"],
+      "love": true
+    },
+
+    {
+      "title": "Lost & found",
+      "artist": "Jorja Smith",
+      "year": "2018",
+      "image": "https://m.media-amazon.com/images/I/81SXTXwa0eL.jpg",
+      "tags": ["Soul"],
+      "love": true
+    },
+
+    {
+      "title": "African Herbsman",
+      "artist": "Bob Marley and the Wailers",
+      "year": "1973",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgUMXMtMmcUbhWI27KqQuifZnee7WBd-3yQ&s",
+      "tags": ["Reggae"],
+      "love": true
+    },
+
+    {
+      "title": "H-24",
+      "artist": "Hamza",
+      "year": "2015",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/b6/bb/1d/18725814/1507-1/tsp20250218134126/H-24-Exclusivite-Fnac-Vinyle-Gris-Argente.jpg",
+      "tags": ["Rap"],
+      "love": false
+    },
+
+    {
+      "title": "Ultra",
+      "artist": "Booba",
+      "year": "2021",
+      "image": "https://dose.store/cdn/shop/files/2-00602435839820-cover.png?v=1706708348&width=625",
+      "tags": ["Rap"],
+      "love": false
+    },
+
+    {
+      "title": "Oneness",
+      "artist": "Carlos Santana",
+      "year": "1979",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeDf_VhfI-AXTDMc2lLSwi5lDiYNLZtbXog&s",
+      "tags": ["Rock"],
+      "love": true
+    },
+
+    {
+      "title": "In the mist",
+      "artist": "Dinge Queen",
+      "year": "1992",
+      "image": "https://i.discogs.com/EArftz1N47862rnoGOWKFplWuNDfgMiVVt8XKEhZvN8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/MTYtMTIzMzQwMzY5/OC5qcGVn.jpeg",
+      "tags": ["Techno"],
+      "love": false
+    },
+
+    {
+      "title": "Music From Original Soundtrack",
+      "artist": "Woodstock",
+      "year": "1970",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/01/61/aa/11165953/1540-1/tsp20190528144043/Woodstock.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "W.B.K 79",
+      "artist": "Willem Breuker",
+      "year": "1979",
+      "image": "https://img.allformusic.fr/pochette/300/0e/0e91afae-bd41-4f0e-99d4-4a0fe80bb458.webp",
+      "tags": ["Jazz"],
+      "love": false
+    },
+
+    {
+      "title": "Bitume caviar",
+      "artist": "Limsa d'Aulnay & ISHA",
+      "year": "2023",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/92/9c/f3/15965330/1507-1/tsp20231109161409/Bitume-Caviar.jpg",
+      "tags": ["Rap"],
+      "love": true
+    },
+
+    {
+      "title": "Enter the Wu-Tang (36 chambers)",
+      "artist": "Wu-Tang Clan",
+      "year": "1993",
+      "image": "https://m.media-amazon.com/images/I/614UiJzoxPL.jpg",
+      "tags": ["Rap"],
+      "love": true
+    },
+
+    {
+      "title": "Chinatown",
+      "artist": "Thin Lizzy",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/I/81pMRisz-vL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Harvest",
+      "artist": "Neil Young",
+      "year": "1972",
+      "image": "https://m.media-amazon.com/images/I/819JDy7734L._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Darknest on the Edge of Town",
+      "artist": "Bruce Springsteen",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/81ChBQil4zL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Nothing like the sun",
+      "artist": "Sting",
+      "year": "1987",
+      "image": "https://m.media-amazon.com/images/I/61PQXqQbgmL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": true
+    },
+
+    {
+      "title": "Uprising",
+      "artist": "Bob Marley and the Wailers",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/I/71NZGTFf3pL._UF894,1000_QL80_.jpg",
+      "tags": ["Reggae"],
+      "love": true
+    },
+
+    {
+      "title": "Watty Dread",
+      "artist": "Bob Marley and the Wailers",
+      "year": "1974",
+      "image": "https://fr.shopping.rakuten.com/photo/180707530_ML.jpg",
+      "tags": ["Reggae"],
+      "love": true
+    },
+
+    {
+      "title": "Born again",
+      "artist": "Notorious B.I.G",
+      "year": "1999",
+      "image": "https://m.media-amazon.com/images/I/616bQD5EH7L.jpg",
+      "tags": ["Rap"],
+      "love": false
+    },
+
+    {
+      "title": "Lou Reed Live",
+      "artist": "Lou Reed",
+      "year": "1973",
+      "image": "https://m.media-amazon.com/images/I/81RkryZenGL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "A Momentary Lapse of Reason",
+      "artist": "Pink Floyd",
+      "year": "1987",
+      "image": "https://m.media-amazon.com/images/I/81XJCPnXb6L._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Come taste the band",
+      "artist": "Deep Purple",
+      "year": "1975",
+      "image": "https://m.media-amazon.com/images/I/81eKvP-f5wL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Johnny Winter and / live",
+      "artist": "Johnny Winter",
+      "year": "1971",
+      "image": "https://m.media-amazon.com/images/I/71TApTz6oZL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "The Michael Schenker Group",
+      "artist": "Michael Schenker Group",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Michaelschenkergroupalbum.jpg/250px-Michaelschenkergroupalbum.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Bonneville",
+      "artist": "Bonneville",
+      "year": "1978",
+      "image": "https://www.rockmadeinfrance.com/wp-content/uploads/2010/09/Bonneville.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Quo",
+      "artist": "Status Quo",
+      "year": "1974",
+      "image": "https://i.discogs.com/Q06VgGM1nfL4a5YCEieuXNWljLeOqjiYqBcA3GeZ4ok/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM2/ODQtMTYxNTY1NDY1/MC02NTE4LmpwZWc.jpeg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Live in Europe",
+      "artist": "Creedence Clearwater Revival",
+      "year": "1973",
+      "image": "https://www.bear-family.fr/media/image/48/de/c9/fantccr1_600x600.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Pyramid",
+      "artist": "The Alan Parsons Project",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/71ZK0PX1VUL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "The Wall - Live In Berlin",
+      "artist": "Roger Waters",
+      "year": "1990",
+      "image": "https://m.media-amazon.com/images/I/A1qYWoWqOkL._SX522_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Night in the ruts",
+      "artist": "Aerosmith",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Aerosmith_-_Night_In_The_Ruts.JPG",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Status + Quo + Live",
+      "artist": "Status Quo",
+      "year": "1976",
+      "image": "https://m.media-amazon.com/images/I/71RANmP+WzL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Chances are",
+      "artist": "Bob Marley",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/61XUykjR40L._UF1000,1000_QL80_.jpg",
+      "tags": ["Reggae"],
+      "love": false
+    },
+
+    {
+      "title": "Greatest Hits",
+      "artist": "Black Sabbath",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/51wRMebvxRL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": true
+    },
+
+    {
+      "title": "Evolution",
+      "artist": "Journey",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/81SKhe16IeL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Survival",
+      "artist": "Bob Marley and the Wailers",
+      "year": "1979",
+      "image": "https://m.media-amazon.com/images/I/81WhdvPWy7L.jpg",
+      "tags": ["Reggae"],
+      "love": false
+    },
+
+    {
+      "title": "Malicorne",
+      "artist": "Malicorne",
+      "year": "1975",
+      "image": "https://i.ebayimg.com/images/g/wv4AAOSwBLxl8yQO/s-l400.jpg",
+      "tags": ["Rock","Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Let there be rock",
+      "artist": "AC/DC",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/61is0l74p7L.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "More (soundtrack)",
+      "artist": "Pink Floyd",
+      "year": "1969",
+      "image": "https://m.media-amazon.com/images/I/81JTR3FeQwL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Aqualung",
+      "artist": "Jethro Tull",
+      "year": "1971",
+      "image": "https://m.media-amazon.com/images/I/81Uogc1hSlL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "The dream of the blue turtles",
+      "artist": "Sting",
+      "year": "1985",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Sting_The_Dream_of_the_Blue_Turtles_CD_cover.JPG",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Imperial Bedroom",
+      "artist": "Elvis Costello and the Attractions",
+      "year": "1982",
+      "image": "https://m.media-amazon.com/images/I/61AhSnQvMVL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "It's all over now",
+      "artist": "Rod Stewart",
+      "year": "1970",
+      "image": "https://i.ebayimg.com/images/g/N60AAOSwI2hlKWCr/s-l400.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Live and dangerous",
+      "artist": "Thin Lizzy",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/61Ia3pQPcHL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Morgane de toi..",
+      "artist": "Renaud",
+      "year": "1983",
+      "image": "https://images.genius.com/56ec3ec5ee55fe8168a443c93508daea.600x595x1.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Takin' me back",
+      "artist": "Sweet Chocolate",
+      "year": "1979",
+      "image": "https://jikajive.com/wp-content/uploads/2022/09/R-11185211-1575284497-2268.jpg",
+      "tags": ["Funk","Soul"],
+      "love": false
+    },
+
+    {
+      "title": "Midnight Express (soundtrack)",
+      "artist": "Giorgio Moroder",
+      "year": "1978",
+      "image": "https://m.media-amazon.com/images/I/61jYoFlYT4L._UF350,350_QL50_.jpg",
+      "tags": ["Variété"],
+      "love": false
+    },
+
+    {
+      "title": "Confession d'un malandrin",
+      "artist": "Angelo Branduardi",
+      "year": "1980",
+      "image": "https://fr.shopping.rakuten.com/photo/Branduardi-Angelo-Confession-D-un-Malandrin-33-Tours-857334242_ML.jpg",
+      "tags": ["Chanson française"],
+      "love": false
+    },
+
+    {
+      "title": "Jean Christian Michel",
+      "artist": "Jean Christian Michel",
+      "year": "1980",
+      "image": "https://i.ebayimg.com/images/g/QcgAAOSwV6heCIdG/s-l400.jpg",
+      "tags": ["Variété"],
+      "love": false
+    },
+
+    {
+      "title": "The Wild, The Willing And The Innocent",
+      "artist": "UFO",
+      "year": "1981",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Wild%2C_the_Willing_and_the_Innocent.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Higelin à Mogador",
+      "artist": "Jacques Higelin",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/71XkARgt4wL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Head Games",
+      "artist": "Foreigner",
+      "year": "1979",
+      "image": "https://www.emp-online.fr/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dw0be8020e/images/3/4/8/9/348977a-emp.jpg?sw=1000&sh=800&sm=fit&sfrm=png",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Wanted Dread & alive",
+      "artist": "Peter Tosh",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/81hcIRumf6L._UF894,1000_QL80_.jpg",
+      "tags": ["Reggae"],
+      "love": true
+    },
+
+    {
+      "title": "Wish you were here",
+      "artist": "Pink Floyd",
+      "year": "1975",
+      "image": "https://static.posters.cz/image/1300/10124.jpg",
+      "tags": ["Rock"],
+      "love": true
+    },
+
+    {
+      "title": "Certified",
+      "artist": "David Banner",
+      "year": "2005",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/David_Banner_Certified.jpg",
+      "tags": ["Rap"],
+      "love": false
+    },
+
+    {
+      "title": "Making Movies",
+      "artist": "Dire Straits",
+      "year": "1980",
+      "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/36/f7/06/456502/1540-1/tsp20231005080516/Making-movies.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Brother in arms",
+      "artist": "Dire Straits",
+      "year": "1985",
+      "image": "https://m.media-amazon.com/images/I/61us1A1hwkL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Van Halen",
+      "artist": "Van Halen",
+      "year": "1972",
+      "image": "https://m.media-amazon.com/images/I/71JOfcqjjgL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": true
+    },
+
+    {
+      "title": "ExtendedancEPlay",
+      "artist": "Dire Straits",
+      "year": "1983",
+      "image": "https://fr.shopping.rakuten.com/photo/300201590_L.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "B S & T",
+      "artist": "Blood Sweat and Tears",
+      "year": "1971",
+      "image": "https://us.rarevinyl.com/cdn/shop/products/blood-sweat-and-tears-b-s-and-t-4-uk-vinyl-lp-album-record-64355-573856_1000x1007.jpg?v=1684969432",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Turn Back",
+      "artist": "Toto",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/I/61Qr8IhRcQL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Graeme Allwright",
+      "artist": "Graeme Allwright",
+      "year": "1966",
+      "image": "https://fr.shopping.rakuten.com/photo/992769765_L.jpg",
+      "tags": ["Variété"],
+      "love": false
+    },
+
+    {
+      "title": "Knebworth (festival)",
+      "artist": "Phils Collins & cie",
+      "year": "1990",
+      "image": "https://i.discogs.com/iaKL0fa5WziQAf_vzv8wrYa5EQr96yaMCTMlKqIz17s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU1/NDktMTU2MjQzMTky/OS01NjgzLmpwZWc.jpeg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "In the heat of the night",
+      "artist": "Pat Benatar",
+      "year": "1979",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Benaheat.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Chicago XIV",
+      "artist": "Chicago",
+      "year": "1980",
+      "image": "https://chicagotheband.com/wp-content/uploads/14.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "801 Live",
+      "artist": "801",
+      "year": "1976",
+      "image": "https://m.media-amazon.com/images/I/61wKpL1wXxL._UF894,1000_QL80_.jpg",
+      "tags": ["Rock","Concert"],
+      "love": false
+    },
+
+    {
+      "title": "Runaway Boys",
+      "artist": "Stray Cats",
+      "year": "1981",
+      "image": "https://m.media-amazon.com/images/I/71Xe8kb8twL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    },
+
+    {
+      "title": "Tes vivants ...?",
+      "artist": "Bernard Lavilliers",
+      "year": "1977",
+      "image": "https://m.media-amazon.com/images/I/71j69bU1ZKL._UF1000,1000_QL80_.jpg",
+      "tags": ["Rock"],
+      "love": false
+    }
+
+
+
+
+
+  ]
+  
